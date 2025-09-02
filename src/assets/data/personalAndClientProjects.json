@@ -1,0 +1,64 @@
+[
+    {
+      "title": "Job Listing App",
+       "desc": "A React application that displays job postings with filtering functionality, responsive layout, and interactive UI for an optimized job search experience.",
+      "link": "https://react-jobs-phi-seven.vercel.app/",
+      "image": "/images/job-listings.jpg"
+    },
+    {
+      "title": "Forkify App",
+       "desc": "Recipe search and bookmarking app built with JavaScript, allowing users to explore, save, and manage recipes using a public API.",
+      "link": "https://forkify-harpreet.netlify.app/",
+      "image": "/images/forkify.jpg"
+    },
+    {
+      "title": "Quote Generator",
+       "desc": "A simple JavaScript app that fetches and displays random inspirational quotes with the option to share on social media.",
+      "link": "https://harpreetkaur01.github.io/Quote-Generator/",
+      "image": "/images/quoteGen.jpg"
+    },
+    {
+      "title": "ToDo App",
+       "desc": "Task management app built with React, allowing users to add, delete, and mark tasks as complete with a clean, responsive design.",
+      "link": "https://harpreetkaur01.github.io/ToDoApp/",
+      "image": "/images/todo.jpg"
+    },
+    {
+      "title": "Weather App",
+       "desc": "A JavaScript app that fetches real-time weather data from an API, displaying temperature, conditions, and location-based forecasts.",
+      "link": "https://harpreetkaur01.github.io/WeatherApp/",
+      "image": "/images/weather.jpg"
+    },
+    {
+      "title": "UK BBC CLONE",
+      "desc": "A static website clone of the BBC UK homepage, built using HTML, CSS, and JavaScript to practice responsive layouts and UI design.",
+      "link": "https://harpreetkaur01.github.io/UK-BBC-CLONE-2019/",
+      "image": "/images/BBC-clone.jpg"
+    },
+    {
+      "title": "Fitness Classes",
+       "desc": "A responsive landing page for fitness programs, designed with HTML, CSS, and JavaScript to showcase schedules, pricing, and class details.",
+      "link": "https://harpreetkaur01.github.io/Fitness-Classes/",
+      "image": "/images/fitnessClasses.jpg"
+    },
+    {
+      "title": "Payroll App (Javascrpt)",
+       "desc": "A payroll management application built with JavaScript, calculating employee salaries, deductions, and net pay with dynamic input handling.",
+      "link": "https://harpreetkaur01.github.io/Pay-Roll-Application/",
+      "image": "/images/payroll.jpg"
+    },
+
+    {
+      "title": "Lakeside Realty",
+       "desc": "A responsive real estate website showcasing property listings and services, built with HTML, CSS, and JavaScript for a modern user experience.",
+      "link": "https://harpreetkaur01.github.io/Lakeside-Realty/",
+      "image": "/images/lakeside-reality.jpg"
+    },
+    {
+      "title": "Survey Form",
+       "desc": "A simple and responsive survey form built with HTML and CSS, designed to collect structured feedback from users.",
+      "link": "https://harpreetkaur01.github.io/Survey-Form/",
+      "image": "/images/survey-form.jpg"
+    }
+    
+  ]

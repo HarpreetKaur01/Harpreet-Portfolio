@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Transitions to Success",
+      "desc": "Developed a fully responsive online orientation platform to support students transitioning into their academic journey at Humber College.",
+      "link": "http://humber.ca/easy-start/",
+      "image": "/images/transitions-to-success.jpg"
+    },
+    {
+      "title": "Making Accessible Media",
+      "desc": "Built an interactive learning hub focused on accessibility in media, ensuring WCAG compliance and inclusive design for diverse learners.",
+      "link": "http://humber.ca/makingaccessiblemedia/",
+      "image": "/images/making-accessible-media.jpg"
+    },
+    {
+      "title": "SVPA",
+      "desc": "Assisted in creating pages for Humber’s Learning Outcomes storytelling platform, focusing on clear navigation and interactive visual elements",
+      "link": "https://humber.ca/humber-learning-outcomes/hlo-story.html",
+      "image": "/images/svpa-hlo.jpg"
+    },
+    {
+      "title": "Educational Technology Commmittee",
+      "desc": "Contributed to the development of the Ontario EdTech Committee website, helping build pages that showcase events, resources, and initiatives advancing educational technology in higher education.",
+      "link": "http://www.edtechontario.ca/",
+      "image": "/images/edtechontario.jpg"
+    },
+    {
+      "title": "Innovative Learning",
+      "desc": "Worked on selected pages of the Humber Innovative Learning website, focusing on responsive design and accessibility to highlight faculty resources and teaching tools",
+      "link": "https://humber.ca/innovativelearning/",
+      "image": "/images/innovative-learning.jpg"
+    },
+    {
+      "title": "ONLINE COURSE BUILDS",
+      "desc": "Collaborated on the design and development of engaging online courses, focusing on responsive layouts, multimedia integration, and accessibility standards.",
+      "link": "#",
+      "image": "/images/online-course-builds.jpg"
+    }
+
+  ]
