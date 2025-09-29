@@ -1,5 +1,7 @@
 import personalAndClientProjects from './assets/data/personalAndClientProjects.json'
 import workplaceProjects from './assets/data/workplaceProjects.json' 
+import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom"
+import OnlineCoursesDetail from "./OnlineCoursesDetail";
 import './App.css'
 
 function App() {
@@ -15,7 +17,8 @@ const ProjectCard = ({ project }) => (
       />
     )}
 
-    {/* Project Content */}
+    {/* Project Content */} 
+
     <div className="p-6">
       <h3 className="font-semibold text-xl mb-2">{project.title}</h3>
       
@@ -30,6 +33,10 @@ const ProjectCard = ({ project }) => (
           View Project →
         </a>
       )}
+      {project.slug && (
+        <Link to={`/${project.slug}`} className="text-blue-600 font-medium hover:underline">View Project →</Link>
+      )}
+
     </div>
   </div>
 );
@@ -56,7 +63,10 @@ const ProjectCard = ({ project }) => (
   );
 
   return (
-    <div className="font-sans text-gray-900">
+    <Router>
+      <Routes>
+        <Route path="/" element= {
+ <div className="font-sans text-gray-900">
       {/* Header */}
       <header className="bg-blue-600 text-white py-6 shadow-lg">
         <div className="container mx-auto text-center">
@@ -125,6 +135,19 @@ const ProjectCard = ({ project }) => (
         <p>© {new Date().getFullYear()} Harpreet Kaur</p>
       </footer>
     </div>
+        }>
+
+        </Route>
+        <Route path='/online-course-builds' element={<OnlineCoursesDetail/>}>
+
+        </Route>
+
+      
+      </Routes>
+    </Router>
+
+
+   
   );
 }
 

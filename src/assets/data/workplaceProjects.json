@@ -32,8 +32,10 @@
     {
       "title": "ONLINE COURSE BUILDS",
       "desc": "Collaborated on the design and development of engaging online courses, focusing on responsive layouts, multimedia integration, and accessibility standards.",
-      "link": "#",
-      "image": "/images/online-course-builds.jpg"
+      
+      "image": "/images/online-course-builds.jpg",
+      "type": "internal",
+      "slug": "online-course-builds"
     }
 
   ]
