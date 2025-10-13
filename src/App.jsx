@@ -13,7 +13,7 @@ const ProjectCard = ({ project }) => (
       <img
         src={project.image}
         alt={project.title}
-        className="w-full h-48 object-cover"
+        className="w-full h-48 object-cover" style={{borderBottom: "1px solid #CCCCCC"}}
       />
     )}
 
@@ -23,6 +23,9 @@ const ProjectCard = ({ project }) => (
       <h3 className="font-semibold text-xl mb-2">{project.title}</h3>
       
       <p className="text-gray-700 mb-4">{project.desc}</p>
+       {project.technologies && (
+        <p className="text-gray-700 mb-4"><strong>Technologies: </strong>{project.technologies}</p>
+      )}
       {project.link && (
         <a
           href={project.link}
