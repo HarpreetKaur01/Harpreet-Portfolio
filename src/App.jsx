@@ -71,7 +71,7 @@ const ProjectCard = ({ project }) => (
       <header className="bg-blue-600 text-white py-6 shadow-lg">
         <div className="container mx-auto text-center">
           <h1 className="text-3xl font-bold">Harpreet Kaur</h1>
-          <p className="text-lg">Front-End Developer</p>
+          <p className="text-lg">Web Developer</p>
         </div>
       </header>
 
@@ -79,7 +79,7 @@ const ProjectCard = ({ project }) => (
       <section id="about" className="container mx-auto py-12 px-6">
         <h2 className="text-2xl font-bold mb-4">About Me</h2>
         <p className="text-gray-700 leading-relaxed">
-          Hi, I’m Harpreet, a front-end developer with 5 years of experience
+          Hi, I’m Harpreet, a Web developer with 5 years of experience
           building responsive, user-friendly websites and eLearning solutions.
           I specialize in HTML, CSS, JavaScript, React, and accessibility.
         </p>
