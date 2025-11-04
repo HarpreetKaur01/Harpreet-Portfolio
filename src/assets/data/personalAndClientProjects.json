@@ -9,7 +9,7 @@
     {
       "title": "Job Listing App",
        "desc": "A React application that displays job postings with filtering functionality, responsive layout, and interactive UI for an optimized job search experience.",
-      "link": "https://react-jobs-phi-seven.vercel.app/",
+       "link": "https://react-jobs-board-sigma.vercel.app/",
       "image": "/images/job-listings.jpg",
       "technologies" : "React.js, Bootstrap, HTML5, CSS3, JavaScript"
     },
